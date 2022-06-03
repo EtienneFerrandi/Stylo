@@ -1,0 +1,343 @@
+# This file contains the words that were used for building the table
+#   of frequencies. It can be also used for the next tasks, and for this
+#   purpose it can be manually revised, edited, deleted, culled, etc.
+#   You can either delete unwanted words, or mark them with "#"
+#   -----------------------------------------------------------------------
+
+u m  
+  q u
+u s  
+e t  
+i s  
+  e t
+  i n
+  n o
+a m  
+i t  
+  d e
+r e  
+  d i
+e m  
+  c o
+  e s
+e s  
+o n  
+n t  
+  s i
+i n  
+  s e
+s t  
+u r  
+  s u
+t e  
+i a  
+  p r
+  p e
+  a d
+u t  
+a t  
+u i  
+s i  
+  r e
+d e  
+a e  
+o s  
+  p o
+  p a
+  i l
+e r  
+  h o
+a s  
+  v e
+  u t
+  c a
+  m e
+s e  
+  t e
+  c u
+  a u
+  m a
+n e  
+t a  
+  s a
+o d  
+  v i
+t i  
+  n e
+  e r
+r a  
+a d  
+  d o
+i m  
+  h a
+e d  
+d o  
+  a l
+  e x
+  e n
+i d  
+  f a
+r o  
+g o  
+  t u
+  t a
+  f i
+  m i
+i o  
+  i p
+  a n
+b i  
+e o  
+u e  
+  o m
+o c  
+  v o
+n a  
+  c h
+  i u
+r i  
+t o  
+  f r
+l i  
+e i  
+  m o
+  c r
+e c  
+  u i
+n i  
+  m u
+l o  
+l e  
+  t i
+  u e
+u a  
+m o  
+  s o
+o r  
+  a c
+  b o
+u o  
+  a m
+  l a
+  n i
+  o p
+n s  
+  n u
+  i m
+  f e
+  u n
+l a  
+  d u
+  a b
+  s p
+  i d
+  f u
+  s c
+  i s
+  l e
+  l i
+  a p
+e l  
+  h u
+i c  
+n o  
+  a e
+  t r
+  e i
+t u  
+  d a
+  f o
+  p u
+  p l
+u d  
+m e  
+  i t
+  i a
+e n  
+d i  
+  t o
+  n a
+s a  
+  b e
+  e o
+e x  
+  a g
+  g r
+  a r
+  u o
+m i  
+  l o
+  e c
+  o c
+  c e
+  e u
+c e  
+a b  
+  s t
+  g e
+i e  
+  o r
+  l u
+e a  
+  e g
+  h i
+i i  
+  o b
+  e l
+m a  
+n c  
+  u b
+d a  
+a c  
+h i  
+c o  
+  e a
+  e v
+  c i
+  i g
+  v u
+c i  
+i l  
+  c l
+s o  
+  b a
+  v a
+  r a
+g e  
+  o s
+c a  
+  i e
+  a t
+  g a
+u c  
+  i r
+  p i
+  i b
+  a i
+  r o
+  a s
+v i  
+b o  
+  e b
+  u s
+l t  
+  o d
+  u x
+  u l
+a x  
+  g l
+  o f
+  a v
+x i  
+p e  
+s u  
+  p s
+  f l
+  i o
+v e  
+  b i
+  v n
+  t h
+  h e
+a n  
+  e m
+i x  
+r s  
+  r u
+  e p
+i u  
+  u a
+g a  
+o x  
+  b r
+u b  
+g i  
+b a  
+u l  
+  o l
+  e f
+  b l
+  v t
+  g u
+a r  
+  a q
+  u u
+v a  
+v t  
+v o  
+i r  
+  m y
+p i  
+  o t
+  p h
+o b  
+  r i
+u x  
+  u m
+a l  
+  z e
+o t  
+  s y
+  o u
+y r  
+  a f
+  b u
+  u r
+h a  
+n u  
+b e  
+r t  
+  k a
+  e d
+  v b
+  d r
+  o n
+  t y
+  e q
+o e  
+o a  
+h o  
+  h y
+  c y
+p s  
+x u  
+p o  
+  z a
+b s  
+  v x
+p a  
+  u v
+  f y
+c h  
+o l  
+  o v
+t c  
+  x v
+  b y
+  i c
+t h  
+h e  
+  v s
+p h  
+  g i
+  a a
+c u  
+e u  
+  l y
+  l x
+z o  
+  y l
+a z  
+  x a
+x a  
+j j  
+  i i
+a u  
+a o  
+  z i
+r u  
+  g n
+  c x
+  x x
+b u  
+  
