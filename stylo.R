@@ -43,6 +43,8 @@ rolling.classify(write.png.file=TRUE, classification.method = "svm", distance.me
                  preserve.case=FALSE, corpus.lang="Latin"  )
 
 
+
+
 #textes non-lemmatisés, tokens de mots, échantillon de 1000 mots, 1000 mots les plus fréquents
 
 #CAE-s-21
@@ -86,8 +88,9 @@ rolling.classify(write.png.file=TRUE, classification.method = "svm", distance.me
 
 
 
-#textes non-lemmatisés, tokens de trigrammes de caractères d'affixes, échantillon de 1000 mots, 1000 mots les plus fréquents
+#textes non-lemmatisés, tokens de trigrammes de caractères d'affixes, échantillon de 1000 mots
 #trigrammes d'affixes issus de la liste générée par le modèle entraîné avec SuperStyl
+
 #CAE-s-21
 #repère placé sur la conclusion que G. Morin avait identifiée comme relevant du style de Césaire
 setwd("~/two_subcorpora1")
@@ -131,8 +134,7 @@ rolling.classify(write.png.file=TRUE, classification.method = "svm", distance.me
 
 
 
-#test sur tous les textes lemmatisés réunis en un seul (7072 mots) 
-#de sorte à pouvoir augmenter la taille de l'échantillon
+#test sur tous les textes lemmatisés réunis en un seul (7072 mots) de sorte à pouvoir augmenter la taille de l'échantillon
 #échantillion de 3000 mots
 #svm classification
 
@@ -153,7 +155,7 @@ rolling.classify(write.png.file=TRUE, classification.method = "svm", distance.me
                                       "CAE-s-173", "conclu", "CAE-s-226","conclu"),
                  preserve.case=FALSE, corpus.lang="Latin"  )
 
-#avec les trigrammes de caractères d'afixes
+#avec les trigrammes de caractères d'affixes
 rolling.classify(write.png.file=TRUE, classification.method = "svm", distance.measure="delta",
                  mfw=336, slice.size = 3000, slice.overlap = 2990, features = "3grams_affixes.txt",
                  delete.pronouns=FALSE, milestone.points = c(1,1177,1889,3270,4130,4258,5351,5567, 6673), 
@@ -191,9 +193,5 @@ rolling.classify(write.png.file=TRUE, classification.method = "svm", distance.me
                  analyzed.features="c", ngram.size=3,
                  preserve.case=FALSE, corpus.lang="Latin"  )
 
-#on cherche à examiner ce qui distingue Augustin  de Césaire dans le style, quels sont les mots préférés d'Augustin 
-#et au contraire quels sont ceux qu'il évite, à la différence de Césaire
-setwd("~/Documents/oppose")
-oppose(gui=FALSE, text.slice.length=50,text.slice.overlap=30,oppose.method="craig.zeta",visualization="words",identify.points=TRUE,
-       zeta.filter.threshold=0.1)
+
 
